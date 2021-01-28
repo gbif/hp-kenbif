@@ -3,7 +3,7 @@ title:  "Ebbe Nielson Challenge"
 date:   2020-09-25 21:37:12 +0200
 categories: News
 lang-ref: Ebbe Nielson Challenge
-background: https://www.gbif.org/news/3D4vDeTzJ4UrTuYZ8SiPVY/ 
+background: /assets/images/http _images.ctfassets.net_uo17ejk9rkwj_2PF6LCpovG8MBlPcHrNwOa_a3efea738f65c6e6a48e24890aa28b9e_ebbe-2020-feature.png
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
