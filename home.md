@@ -4,7 +4,7 @@ layout: home
 title: KenBIF
 description: Welcome to KenBIF portal.
 background: /assets/images/Fernandoa_magnifica.JPG
-imageLicense: | 
+imageLicense: | *Fernandoa magnifica*
 
 cta:
   - text: Start exploring
