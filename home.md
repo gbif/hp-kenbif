@@ -5,7 +5,6 @@ title: KenBIF
 description: Welcome to KenBIF hosted portal demo.
 background: /assets/images/Fernandoa_magnifica.JPG
 imageLicense: | 
-*Fernandoa magnifica*
 
 cta:
   - text: Start exploring
