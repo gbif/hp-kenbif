@@ -5,7 +5,7 @@ title: KenBIF
 description: Welcome to KenBIF hosted portal demo.
 background: /assets/images/Fernandoa_magnifica.JPG
 imageLicense: |
-  
+*Fernandoa magnifica* observed at Diani on 26 Oct 2009 Photo by Dr Geoffrey Mwachala http://creativecommons.org/licenses/by/4.0/" CC BY 4.0)  
 cta:
   - text: Start exploring
     href: /data
