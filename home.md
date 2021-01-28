@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: KenBIF
-description: Welcome to KenBIF hosted portal demo.
+description: Welcome to KenBIF portal.
 background: /assets/images/Fernandoa_magnifica.JPG
 imageLicense: | 
 
@@ -15,12 +15,7 @@ cta:
 permalink: /
 ---
 
-Edit `/home.md` to change the text.
 
-Welcome to KenBIF Portal
+Free and open access to Kenya's Biodiversity Information
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+The KenBIF portal is a repository of Kenya's Biodiversity information that aims to to aggregate data from biodiversity data holding institutions and the public to provide open and free access to biodiversity information. We welcome your participation and feedback. 
