@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: KenBIF
 description: Welcome to KenBIF hosted portal demo.
-background: /assets/images/Grey parrot.jpg
+background: /assets/images/Fernandoa_magnifica.JPG
 imageLicense: |
   
 cta:
