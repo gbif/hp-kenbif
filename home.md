@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: KenBIF
-description: Welcome to KenBIF portal.
+description: Welcome to the Kenya Biodiveristy Information Facility portal
 background: /assets/images/Fernandoa_magnifica.JPG
 imageLicense: | *Fernandoa magnifica*
 
