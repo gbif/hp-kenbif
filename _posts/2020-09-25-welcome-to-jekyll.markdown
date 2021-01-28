@@ -1,6 +1,6 @@
 ---
 title:  "Ebbe Nielson Challenge"
-date:   2020-09-25 21:37:12 +0200
+date:   2021-01-28 12:37:12 
 categories: News
 lang-ref: Ebbe Nielson Challenge
 background: /assets/images/http _images.ctfassets.net_uo17ejk9rkwj_2PF6LCpovG8MBlPcHrNwOa_a3efea738f65c6e6a48e24890aa28b9e_ebbe-2020-feature.png
