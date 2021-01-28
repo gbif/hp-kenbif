@@ -5,8 +5,7 @@ title: KenBIF
 description: Welcome to KenBIF hosted portal demo.
 background: /assets/images/Fernandoa_magnifica.JPG
 imageLicense: | 
-*Fernandoa magnifica* Dr Geoffrey Mwachala [iNaturalist]
-(http://creativecommons.org/licenses/by/4.0/ CC BY 4.0)
+*Fernandoa magnifica*
 
 cta:
   - text: Start exploring
