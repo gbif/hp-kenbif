@@ -5,8 +5,6 @@ categories: News
 lang-ref: Ebbe Nielson Challenge
 background: /assets/images/http _images.ctfassets.net_uo17ejk9rkwj_2PF6LCpovG8MBlPcHrNwOa_a3efea738f65c6e6a48e24890aa28b9e_ebbe-2020-feature.png
 ---
-
-
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
