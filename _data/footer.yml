@@ -5,10 +5,10 @@
 columns:
   - name: Partners
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: National Museums of Kenya
+      href: https://www.museums.or.ke
+    - text: Global Biodiversity Information Facility
+      href: https://gbif.org
 
   - name: Code
     description: | # Can be Markdown
@@ -17,9 +17,12 @@ columns:
   - name: Contact
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      * Museum Hill
+      * P.O.Box 40658 00100
+      * Nairobi,
+      * Kenya
+      * Email: publicrelations@museums.or.ke
+      * Tel:+254-20-8164134 35/36 
     connectIcons: true
 
   # EXAMPLE
