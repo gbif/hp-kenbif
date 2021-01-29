@@ -5,8 +5,9 @@ categories: News
 lang-ref: Ebbe Nielsen Challenge
 background: /assets/images/ebbe-2020-feature.png
 ---
-2021 Ebbe Nielsen Challenge 
-`YEAR-MONTH-DAY-title.MARKUP`
+[2021 Ebbe Nielsen Challenge][www.gbif.org/news/3D4vDeTzJ4UrTuYZ8SiPVY/2021-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity]
+
+
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
