@@ -1,24 +1,24 @@
 ---
 lang-ref: about
 title: Welcome to the KenBIF portal
-description: KenBIF is the Kenyan node of the Global biodiversity Information Facility (GBIF). Mandated by the Ministry of Environment, The National Museums of Kenya is the host of the Kenyan node. The portal hosts biodiversity data that is updated periodically and is freely accessible to the public.
-background: /assets/images/turdoides_hindei.jpg
+description: KenBIF is the Kenyan node of the Global biodiversity Information Facility (GBIF). Mandated by the Ministry of Environment, The National Museums of Kenya is the host of the Kenyan node.
+background: /assets/images/turdoides_hindei2.jpg
 imageLicense: |
   _Turdoides hindei_ Photo by Dave Curtis, 2011 taken in Central, Kenya via [flickr.com](https://www.flickr.com/photos/davethebird/6393348139)
 height: 70vh
 ---
 
-## Kenya's biodiversity
+## Contact Information
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+Dr. Geofrrey Mwachala
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+Head of Delegation
+gmwachala@museums.or.ke
+
+Lawrence Monda
+Node manager
+lmonda@museums.or.ke
+
 
 ## Quam ex te videt
 
