@@ -5,7 +5,7 @@ title: KenBIF
 description: Welcome to the Kenya Biodiveristy Information Facility portal
 background: /assets/images/Fernandoa_magnifica.JPG
 imageLicense: |
-  Photo by Geoffrey Mwachala 
+  _Fernandoa_magnifica_ observed in Diani,Kenya by Mwachala.G
 height: 70vh
 
 cta:
