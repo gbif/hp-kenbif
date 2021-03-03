@@ -1,10 +1,10 @@
 ---
 lang-ref: about
-title: The hosted portal goes here
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/moss.jpg
+title: Welcome to the KenBIF portal
+description: KenBIF is the Kenyan node of the Global biodiversity Information Facility (GBIF). Mandated by the Ministry of Environment, The National Museums of Kenya is the host of the Kenyan node. The portal hosts biodiversity data that is updated periodically and is freely accessible to the public.
+background: /assets/images/turdoides_hindei.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  _Turdoides hindei_ Photo by Dave Curtis, 2011 taken in Central, Kenya via [flickr.com](https://www.flickr.com/photos/davethebird/6393348139)
 height: 70vh
 ---
 
