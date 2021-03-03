@@ -4,7 +4,9 @@ layout: home
 title: KenBIF
 description: Welcome to the Kenya Biodiveristy Information Facility portal
 background: /assets/images/Fernandoa_magnifica.JPG
-imageLicense: | 
+imageLicense: |
+  Photo by Geoffrey Mwachala 
+height: 70vh
 
 cta:
   - text: Start exploring
