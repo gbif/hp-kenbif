@@ -21,9 +21,8 @@
 title: Template # KenBIF
 email: Kenbif@museums.or.ke
 description: >- # this means to ignore newlines (until baseurl:)
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Kenya Biodiversity Information Facility is the kenyan node of the Global Biodiversity Information Facility that aims to make data on kenyan biodiversity available online.
+Data are provided by various institutions in Kenya and consolidated and made available through the KenBIF portal. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-kenbif.gbif-staging.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kenyaBIF
