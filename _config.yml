@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines (until baseurl:)
   Kenya Biodiversity Information Facility is the kenyan node of the Global Biodiversity Information Facility that aims to make data on kenyan biodiversity available online.
   Data are provided by various institutions in Kenya and consolidated and made available through the KenBIF portal. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-kenbif.gbif-staging.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hp-kenbif.gbif.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kenyaBIF
 github_username:  jekyll
 
