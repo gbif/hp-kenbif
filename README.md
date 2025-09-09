@@ -4,7 +4,7 @@
 
 # GBIF Hosted Portal: hp-kenbif
 
-This Jekyll website, **[hp-kenbif](https://hp-kenbif.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+This Jekyll website, **[hp-kenbif](https://kenbif.hp.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
